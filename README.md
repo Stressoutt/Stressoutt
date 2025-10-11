@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Stressoutt/Stressoutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **programing languages:**
 
-Here are some ideas to get you started:
+```txt
+Python         ███████████████████      99.00 %            
+JavaScript     █████████████████        96.00 %
+Html + Css     ██████████████           85.00 %     
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 **my github stats**
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stressoutt&layout=compact&theme=dark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Stressoutt&show_icons=true&theme=dark&hide_border=true" /></a> |
